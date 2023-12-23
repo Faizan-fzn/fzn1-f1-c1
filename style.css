@@ -1,0 +1,226 @@
+.heading {
+    display: flex;
+    width: 882px;
+    height: 35px;
+   /* background-color: black; */
+   color: white;
+   padding: 25px;
+   align-items: center;
+   /* text-align: center; */
+   /* justify-content: space-around; */
+}
+.head{
+    font-size: 15px;
+    width: 650px;
+    margin-right: 40px;
+}
+.top{
+    width: 240px;
+    font-size: 12px;
+    margin-right: 65px;
+    
+}
+.whole-page{
+    width: 1340px;
+   height: 6080px;
+   background-color: black;
+}
+.logo1{
+    width:200px;
+    height:80px;
+    display: flex;
+    justify-content: left;
+    margin-left: -90px;
+    margin-right:-120px;
+}
+.big-pic{
+    color: white;
+    
+}
+img{
+    z-index:0 !important;
+    width: 100%;
+    
+}
+.pizza1{
+    color:white;
+    /* text-align:center; */
+}
+.pizza1head {
+    text-align:center;
+    margin-top: -730px;
+    margin-left: -300px;
+    font-size: 40px;
+    font-weight: 100;
+    width: 100%;
+}
+.line{
+    
+    z-index: 2;
+    width: 100px;
+    height: 80px;
+    margin-left: 500px;
+
+}
+hr{
+    background: red;
+    z-index: 2 !important;
+    width: 100px;
+    height: 80px;
+}
+.pizza1para > p{
+    margin: 700px;
+   color: white;
+   text-align: center;
+}
+.h2{
+    height: 40px;
+    text-align: center;
+    color: white;
+    margin-top: 150px;
+}
+.ha{
+    border-bottom: 2px solid red;
+    width: 200px;
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 550px;
+}
+.hm{
+    border-bottom: 2px solid red;
+    width: 180px; 
+     text-align: center;
+     margin-left: 550px;
+     /* margin-bottom: 20px;  */
+}
+.img2{
+    width: 550px;
+    text-align: right;
+    height: 450px;
+    margin-top: -400px;
+    margin-right: -600px;
+}
+.part2{
+    display: flex;
+    text-align: center;
+    width: 400px;
+    margin-left: 80px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.p3{
+    text-align: left;
+}
+.menu2{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.menu3{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+.menu1{
+    display: flex;
+    margin-top: 800px;
+    justify-content: space-between;
+}
+.menupic{
+    width: 200px;
+    height: 200px;
+    margin-left: 80px;
+}
+.menupara{
+    color: white;
+    margin-left: -200px;
+    margin-right: 100px;
+}
+.menupic12{
+    margin-left: -130px;
+    width: 200px;
+    height: 200px;
+}
+.h3{
+    text-align: center;
+    color: white;
+    border-bottom: 2px solid red;
+    width:200px;
+    margin-left: 550px;
+    margin-bottom: 40px;
+}
+/*---------------------------------------------------------------------------------  */
+.carousel {
+    display: flex;
+    overflow: hidden;
+    width: 300px; /* Set the width of the carousel container */
+    margin: 0 auto; /* Center the carousel */
+}
+
+.carousel-inner {
+    display: flex;
+    transition: transform 0.5s ease; /* Add a smooth transition effect */
+}
+
+.carousel-item {
+    min-width: 100%; /* Ensure each item takes the full width of the carousel */
+}
+
+/* Optional: Add styling for navigation buttons */
+.carousel-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.carousel-nav button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+/* ------------------------------------------------------------------------------------ */
+.h4{
+    text-align: center;
+    color: white;
+    border-bottom: 2px solid red;
+    width:200px;
+    margin-left: 550px;
+    margin-bottom: 40px;
+}
+.gallary{
+    display: flex;
+}
+.pic1{
+    width: 800px;
+    margin-top: 30px;
+    
+}
+.pic2{
+    width: 270px;
+    margin-top: 30px;
+}
+.pic3{
+    width: 400px;
+    margin-top: 30px;
+}
+.h5{
+   color: white;
+   text-align: center;
+   margin-top: 50px;
+}
+.info{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
+ .map{
+    
+    width: 450px;
+    margin-top: 30px;
+}
+.text{
+    /* margin-left: 80px; */
+    width: 300px; 
+}
+.phone{
+    width: 100px;
+}
